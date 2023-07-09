@@ -2,11 +2,11 @@ package yamlk8s_test
 
 import (
 	"bytes"
+	"github.com/emicklei/go-restful/v3"
+	"github.com/yoas0bi/micro-toolkit/http/restful/accessor/yamlk8s"
 	"net/http"
 	"net/http/httptest"
 	"testing"
-
-	"github.com/yoas0bi/micro-toolkit/http/restful/accessor/yamlk8s"
 )
 
 type Book struct {
