@@ -1,6 +1,6 @@
 syntax = "proto3";
 
-package infraboard.mcube.page;
+package yoas0bi.micro-toolkit.page;
 option go_package = "github.com/yoas0bi/micro-toolkit/http/request";
 
 message PageRequest {

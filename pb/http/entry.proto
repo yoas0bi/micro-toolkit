@@ -1,6 +1,6 @@
 syntax = "proto3";
 
-package infraboard.mcube.http;
+package yoas0bi.micro-toolkit.http;
 
 option go_package = "github.com/yoas0bi/micro-toolkit/pb/http";
 option java_package = "com.google.protobuf";

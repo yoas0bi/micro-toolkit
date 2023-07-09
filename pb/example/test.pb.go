@@ -158,8 +158,8 @@ func file_pb_example_test_proto_rawDescGZIP() []byte {
 var file_pb_example_test_proto_enumTypes = make([]protoimpl.EnumInfo, 1)
 var file_pb_example_test_proto_msgTypes = make([]protoimpl.MessageInfo, 1)
 var file_pb_example_test_proto_goTypes = []interface{}{
-	(FOO)(0),     // 0: infraboard.mcube.example.FOO
-	(*Test)(nil), // 1: infraboard.mcube.example.Test
+	(FOO)(0),     // 0: yoas0bi.micro-toolkit.example.FOO
+	(*Test)(nil), // 1: yoas0bi.micro-toolkit.example.Test
 }
 var file_pb_example_test_proto_depIdxs = []int32{
 	0, // [0:0] is the sub-list for method output_type

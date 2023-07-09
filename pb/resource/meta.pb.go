@@ -132,7 +132,7 @@ func file_pb_resource_meta_proto_rawDescGZIP() []byte {
 
 var file_pb_resource_meta_proto_msgTypes = make([]protoimpl.MessageInfo, 1)
 var file_pb_resource_meta_proto_goTypes = []interface{}{
-	(*Meta)(nil), // 0: infraboard.mcube.resource.Meta
+	(*Meta)(nil), // 0: yoas0bi.micro-toolkit.resource.Meta
 }
 var file_pb_resource_meta_proto_depIdxs = []int32{
 	0, // [0:0] is the sub-list for method output_type

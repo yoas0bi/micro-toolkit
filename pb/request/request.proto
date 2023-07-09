@@ -1,6 +1,6 @@
 syntax = "proto3";
 
-package infraboard.mcube.request;
+package yoas0bi.micro-toolkit.request;
 option go_package = "github.com/yoas0bi/micro-toolkit/pb/request";
 
 enum UpdateMode {

@@ -1,6 +1,6 @@
 syntax = "proto3";
 
-package infraboard.mcube.resource;
+package yoas0bi.micro-toolkit.resource;
 option go_package = "github.com/yoas0bi/micro-toolkit/pb/resource";
 
 message Meta  {

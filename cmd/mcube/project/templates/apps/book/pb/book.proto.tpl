@@ -48,7 +48,7 @@ message CreateBookRequest {
 message QueryBookRequest {
     // 分页参数
     // @gotags: json:"page" 
-    infraboard.mcube.page.PageRequest page = 1;
+    yoas0bi.micro-toolkit.page.PageRequest page = 1;
     // 关键字参数
     // @gotags: json:"keywords"
     string keywords = 2;  
@@ -76,7 +76,7 @@ message UpdateBookRequest {
     string id = 1;
     // 更新模式
     // @gotags: json:"update_mode"
-    infraboard.mcube.request.UpdateMode update_mode = 2;
+    yoas0bi.micro-toolkit.request.UpdateMode update_mode = 2;
     // 更新人
     // @gotags: json:"update_by"
     string update_by = 3;
