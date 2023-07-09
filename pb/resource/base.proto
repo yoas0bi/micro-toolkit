@@ -1,6 +1,6 @@
 syntax = "proto3";
 
-package yoas0bi.micro-toolkit.resource;
+package yoas0bi.micro_toolkit.resource;
 option go_package = "github.com/yoas0bi/micro-toolkit/pb/resource";
 
 enum VISIABLE_MODE {

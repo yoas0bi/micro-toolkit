@@ -1,6 +1,6 @@
 syntax = "proto3";
 
-package yoas0bi.micro-toolkit.example;
+package yoas0bi.micro_toolkit.example;
 option go_package = "github.com/yoas0bi/micro-toolkit/pb/example";
 
 enum FOO {

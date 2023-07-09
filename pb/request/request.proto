@@ -1,6 +1,6 @@
 syntax = "proto3";
 
-package yoas0bi.micro-toolkit.request;
+package yoas0bi.micro_toolkit.request;
 option go_package = "github.com/yoas0bi/micro-toolkit/pb/request";
 
 enum UpdateMode {
