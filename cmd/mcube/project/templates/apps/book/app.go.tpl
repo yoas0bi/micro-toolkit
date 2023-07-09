@@ -5,7 +5,7 @@ import (
 	"time"
 
 	"github.com/go-playground/validator/v10"
-	"github.com/imdario/mergo"
+	"dario.cat/mergo"
 	"github.com/yoas0bi/micro-toolkit/http/request"
 	pb_request "github.com/yoas0bi/micro-toolkit/pb/request"
 	"github.com/rs/xid"
