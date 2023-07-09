@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+package infraboard.mcube.request;
+option go_package = "github.com/yoas0bi/micro-toolkit/pb/request";
+
+enum UpdateMode {
+    PUT = 0;
+    PATCH = 1;
+}
