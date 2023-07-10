@@ -14,7 +14,7 @@ const testFullResult = `├───dir1
 ├───dir2
 │	├───dir1
 │	│	└───file.txt (empty)
-│	└───file.txt (1b)
+│	└───file.txt (2b)
 └───file.txt (empty)
 `
 

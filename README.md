@@ -1,5 +1,4 @@
 # mcube
-![Build and Test](https://github.com/yoas0bi/micro-toolkit/workflows/Build%20and%20Test/badge.svg)
 [![codecov](https://codecov.io/gh/infraboard/mcube/branch/master/graph/badge.svg)](https://codecov.io/gh/infraboard/mcube)
 [![Go Report Card](https://goreportcard.com/badge/github.com/yoas0bi/micro-toolkit)](https://goreportcard.com/report/github.com/yoas0bi/micro-toolkit)
 [![Release](https://img.shields.io/github/release/infraboard/mcube.svg?style=flat-square)](https://github.com/yoas0bi/micro-toolkit/releases)
@@ -21,7 +20,7 @@
 
 首先你需要安装mcube, 所有的功能都集成到这个CLI工具上了
 ```sh
-$ go install github.com/yoas0bi/micro-toolkit/cmd/mcube 
+$ go install github.com/yoas0bi/micro-toolkit/cmd/mcube@latest 
 ```
 
 按照完成后, 通过help指令查看基本使用方法
