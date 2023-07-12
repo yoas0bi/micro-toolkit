@@ -5,7 +5,7 @@ import (
 	"reflect"
 
 	"github.com/yoas0bi/micro-toolkit/utils/comdef"
-	"github.com/yoas0bi/micro-toolkit/utils-toolkit/utils/strutil"
+	"github.com/yoas0bi/micro-toolkit/utils/strutil"
 )
 
 // ArrFormatter struct

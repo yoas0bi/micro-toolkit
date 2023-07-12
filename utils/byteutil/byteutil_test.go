@@ -6,8 +6,8 @@ import (
 	"time"
 
 	"github.com/yoas0bi/micro-toolkit/utils/byteutil"
-	"github.com/yoas0bi/micro-toolkit/utils-toolkit/utils/testutil/assert"
-	"github.com/yoas0bi/micro-toolkit/utils-toolkit/utils/timex"
+	"github.com/yoas0bi/micro-toolkit/utils/testutil/assert"
+	"github.com/yoas0bi/micro-toolkit/utils/timex"
 )
 
 func TestRandom(t *testing.T) {

@@ -4,7 +4,7 @@ import (
 	"testing"
 
 	"github.com/yoas0bi/micro-toolkit/utils/byteutil"
-	"github.com/yoas0bi/micro-toolkit/utils-toolkit/utils/testutil/assert"
+	"github.com/yoas0bi/micro-toolkit/utils/testutil/assert"
 )
 
 func TestBuffer_WriteAny(t *testing.T) {

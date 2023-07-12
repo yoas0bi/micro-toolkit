@@ -5,7 +5,7 @@ import (
 	"strings"
 
 	"github.com/yoas0bi/micro-toolkit/utils/comdef"
-	"github.com/yoas0bi/micro-toolkit/utils-toolkit/utils/mathutil"
+	"github.com/yoas0bi/micro-toolkit/utils/mathutil"
 )
 
 // SliceHas check the slice contains the given value

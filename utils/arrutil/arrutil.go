@@ -5,7 +5,7 @@ import (
 	"strings"
 
 	"github.com/yoas0bi/micro-toolkit/utils/comdef"
-	"github.com/yoas0bi/micro-toolkit/utils-toolkit/utils/mathutil"
+	"github.com/yoas0bi/micro-toolkit/utils/mathutil"
 )
 
 // StringsRemove value form a string slice

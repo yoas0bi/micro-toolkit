@@ -4,7 +4,7 @@ import (
 	"testing"
 
 	"github.com/yoas0bi/micro-toolkit/utils/arrutil"
-	"github.com/yoas0bi/micro-toolkit/utils-toolkit/utils/testutil/assert"
+	"github.com/yoas0bi/micro-toolkit/utils/testutil/assert"
 )
 
 func TestSliceHas(t *testing.T) {

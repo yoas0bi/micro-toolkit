@@ -6,9 +6,9 @@ import (
 	"strings"
 
 	"github.com/yoas0bi/micro-toolkit/utils/comdef"
-	"github.com/yoas0bi/micro-toolkit/utils-toolkit/utils/mathutil"
-	"github.com/yoas0bi/micro-toolkit/utils-toolkit/utils/reflects"
-	"github.com/yoas0bi/micro-toolkit/utils-toolkit/utils/strutil"
+	"github.com/yoas0bi/micro-toolkit/utils/mathutil"
+	"github.com/yoas0bi/micro-toolkit/utils/reflects"
+	"github.com/yoas0bi/micro-toolkit/utils/strutil"
 )
 
 // ErrInvalidType error
