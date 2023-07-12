@@ -3,7 +3,6 @@ package project
 import (
 	"bytes"
 	"fmt"
-	"github.com/AlecAivazis/survey/v2"
 	"github.com/pkg/errors"
 	"go/format"
 	"io/fs"
@@ -14,7 +13,7 @@ import (
 	"strings"
 	"text/template"
 
-	"github.com/yoas0bi/micro-toolkit/tools/cli"
+	"github.com/yoas0bi/micro-toolkit/utils/cli"
 	"gopkg.in/yaml.v3"
 
 	"embed"
