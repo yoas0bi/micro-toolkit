@@ -3,6 +3,7 @@ package project
 import (
 	"bytes"
 	"fmt"
+	"github.com/AlecAivazis/survey/v2"
 	"github.com/pkg/errors"
 	"go/format"
 	"io/fs"
@@ -36,7 +37,7 @@ func LoadConfigFromCLI() (*Project, error) {
 	err := survey.AskOne(
 		&survey.Input{
 			Message: "请输入项目包名称:",
-			Default: "gitee.com/go-course/mcube-demo",
+			Default: "github.com/yoas0bi/demo",
 		},
 		&p.PKG,
 		survey.WithValidator(survey.Required),
